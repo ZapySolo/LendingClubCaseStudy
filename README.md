@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> Project done by Nikhil Patil and Nimesh Joshi
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- To analyse the data of a loan company and share the observations. 
+- Background of the project is to analyse the data of loan lending company.
+- Giving insights of data available and suggesting users who are likely to default.
+- Private dataset has been provided by Upgrad Team of a Lendning Club company.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +28,19 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Pandas
+- NumPy
+- MatplotLib
+- Seaborn
+  
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@zapysolo, @nimeshjoshi] - feel free to contact me!
 
 
 <!-- Optional -->
