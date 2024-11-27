@@ -19,7 +19,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-The above analysis concerning the charged off loans for each variable suggests the following. There is a higher probability of defaulting when 
+The analysis concerning the charged off loans for each variable suggests the following. There is a higher probability of defaulting when 
 - Applicants having house_ownership as 'RENT'
 - Applicants who use the loan to clear other debts
 - Applicants who receive interest at the rate of 13-17%
@@ -38,8 +38,7 @@ The above analysis concerning the charged off loans for each variable suggests t
 - Grade is 'B'
 - And a total grade of 'B5' level.
 
-The above analysis with respect to the charged off loans. There is a more probability of defaulting when 
-
+The analysis with respect to the charged off loans. There is a more probability of defaulting when 
 - Applicants taking loan for 'home improvement' and have income of 60k -70k
 - Applicants whose home ownership is 'MORTGAGE and have income of 60-70k
 - Applicants who receive interest at the rate of 21-24% and have an income of 70k-80k
